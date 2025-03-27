@@ -1,0 +1,6 @@
+# config.py
+BOT_TOKEN = "7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8"  # Замените на свой токен
+PARKING_MAP_FILE = "parking_mapping.csv"
+CARRIER_MAPPING_FILE = "carrier_mapping.csv"
+PROFIT_PERCENTAGES_FILE = "profit_percentages.csv"
+IMAGE_FILE = "FirstPng.png"

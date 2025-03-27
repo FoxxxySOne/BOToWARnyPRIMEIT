@@ -1,0 +1,11 @@
+2025-03-27 13:48:27,342 - INFO - Бот запущен...
+2025-03-27 13:48:27,659 - INFO - HTTP Request: POST https://api.telegram.org/bot7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8/getMe "HTTP/1.1 200 OK"
+2025-03-27 13:48:27,736 - INFO - HTTP Request: POST https://api.telegram.org/bot7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8/deleteWebhook "HTTP/1.1 200 OK"
+2025-03-27 13:48:27,788 - INFO - Application started
+2025-03-27 13:48:33,683 - INFO - HTTP Request: POST https://api.telegram.org/bot7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8/getUpdates "HTTP/1.1 200 OK"
+2025-03-27 13:48:33,894 - INFO - HTTP Request: POST https://api.telegram.org/bot7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8/sendMessage "HTTP/1.1 200 OK"
+2025-03-27 13:48:35,331 - INFO - HTTP Request: POST https://api.telegram.org/bot7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8/getUpdates "HTTP/1.1 200 OK"
+2025-03-27 13:48:35,469 - INFO - HTTP Request: POST https://api.telegram.org/bot7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-03-27 13:48:35,588 - INFO - HTTP Request: POST https://api.telegram.org/bot7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8/sendMessage "HTTP/1.1 200 OK"
+2025-03-27 13:48:35,615 - ERROR - Ошибка при скачивании или обработке файла: No module named 'scripts.download_script'
+2025-03-27 13:48:35,697 - INFO - HTTP Request: POST https://api.telegram.org/bot7485656740:AAFZKdSJ44I-2c72wcsu0Cc1nainIgGA9I8/editMessageText "HTTP/1.1 200 OK"
